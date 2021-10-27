@@ -18,7 +18,7 @@ print([datetime.today(), today_utc])
 
 credentials = service_account.Credentials.from_service_account_file('--.json')
 
-project_id = 'studied-airline-316717'
+project_id = '--'
 dataset_id = 'mytarget'
 table_id = 'mytarget'
 
